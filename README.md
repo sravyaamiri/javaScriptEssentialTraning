@@ -1,2 +1,2 @@
 # javaScriptEssentialTraning
-From linkedin learning by Morten Rand
+From linkedin learning by Morten Rand-Hendriksen
